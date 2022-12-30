@@ -1,6 +1,6 @@
 # Hooks
 
-1. useEffect
+1. useState
 
 import React, { useState } from 'react' 
 
